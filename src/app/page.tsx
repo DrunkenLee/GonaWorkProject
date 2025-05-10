@@ -37,7 +37,7 @@ export default function Home() {
           <h2>Contact Us</h2>
           <p>
             <a
-              href="https://wa.me/62895412227149"
+              href="https://wa.me/6285959391669"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.whatsappButton}
